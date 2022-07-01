@@ -105,3 +105,5 @@ resource "aws_security_group" "web_host_sg" {
     cidr_blocks = ["0.0.0.0/0"]
   }
 }
+
+
